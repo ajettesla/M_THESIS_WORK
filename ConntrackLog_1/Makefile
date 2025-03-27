@@ -2,14 +2,14 @@ CC = gcc
 CFLAGS = -g -Wall -O2
 LDFLAGS = -lnetfilter_conntrack -lnfnetlink -lmnl -lcrypto
 
-TARGET = conntrack
+TARGET = conntrack_logger
 
 all: $(TARGET)
 
-$(TARGET): conntrack.o
+$(TARGET): conntrack_logger.o
 	$(CC) $(CFLAGS) -o $@ $^ $(LDFLAGS)
 
-conntrack.o: conntrack.c
+conntrack_logger.o: conntrack_logger.c
 	$(CC) $(CFLAGS) -c $<
 
 clean:
