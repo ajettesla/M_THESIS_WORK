@@ -1,0 +1,90 @@
+2025-04-04 09:03:47.981484 - No PIDs found for firefo
+2025-04-04 09:03:48.987912 - No PIDs found for firefo
+2025-04-04 09:03:52.971502 - Error: Command 'sudo sysdig -c topprocs_cpu proc.pid=8149' timed out after 2 seconds
+2025-04-04 09:03:56.012900 - Error: Command 'sudo sysdig -c topprocs_cpu proc.pid=8149' timed out after 2 seconds
+2025-04-04 09:03:59.029935 - Error: Command 'sudo sysdig -c topprocs_cpu proc.pid=8149' timed out after 2 seconds
+2025-04-04 09:04:02.044558 - Error: Command 'sudo sysdig -c topprocs_cpu proc.pid=8149' timed out after 2 seconds
+2025-04-04 09:05:17.274159 - Error: Command failed: Sysdig error: can't open file topprocs_mem
+
+2025-04-04 09:05:19.640663 - Error: Command failed: Sysdig error: can't open file topprocs_mem
+
+2025-04-04 09:20:24.375699 - firefox (PIDs: 1)
+CPU: 0.00%
+Memory: 435.92 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:26.518650 - firefox (PIDs: 1)
+CPU: 0.00%
+Memory: 435.92 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:28.112679 - firefox (PIDs: 1)
+CPU: 0.00%
+Memory: 436.05 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:30.404147 - firefox (PIDs: 1)
+CPU: 0.00%
+Memory: 437.77 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:32.453511 - firefox (PIDs: 1)
+CPU: 0.00%
+Memory: 437.77 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:34.411017 - firefox (PIDs: 1)
+CPU: 48.70%
+Memory: 461.05 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:36.293603 - firefox (PIDs: 1)
+CPU: 39.80%
+Memory: 463.73 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:38.008819 - firefox (PIDs: 1)
+CPU: 69.70%
+Memory: 471.74 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:39.655383 - firefox (PIDs: 1)
+CPU: 89.70%
+Memory: 474.59 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:41.124820 - firefox (PIDs: 1)
+CPU: 98.30%
+Memory: 439.40 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:42.627712 - firefox (PIDs: 1)
+CPU: 0.00%
+Memory: 437.25 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:44.169761 - firefox (PIDs: 1)
+CPU: 0.00%
+Memory: 438.21 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:45.958812 - firefox (PIDs: 1)
+CPU: 107.60%
+Memory: 450.97 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:47.623807 - firefox (PIDs: 1)
+CPU: 63.20%
+Memory: 448.65 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:49.528992 - firefox (PIDs: 1)
+CPU: 177.10%
+Memory: 448.11 MB
+Network: 0.00 KB
+------------------------
+2025-04-04 09:20:51.170518 - firefox (PIDs: 1)
+CPU: 9.70%
+Memory: 450.17 MB
+Network: 0.00 KB
+------------------------
